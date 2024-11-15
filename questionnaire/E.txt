@@ -1,0 +1,14 @@
+User
+E
+Age
+23
+Dominant hand
+Right
+Previous experience with surgical instruments
+Low
+Previous experience with laparoscopic instruments
+Low
+Previous experience in sports that require psychomotor skills
+No
+Previous experience with musical instruments
+Moderate
