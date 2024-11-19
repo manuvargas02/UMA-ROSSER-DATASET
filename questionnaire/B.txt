@@ -1,7 +1,7 @@
 User
 B
 Age
-
+24
 Dominant hand
 Right
 Previous experience with surgical instruments
